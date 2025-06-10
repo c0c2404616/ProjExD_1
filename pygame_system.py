@@ -1,6 +1,6 @@
 import os
 import sys
-import pygame_system as pg
+import pygame as pg
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
